@@ -71,6 +71,8 @@ To use the application, follow these steps:
 
 1.Start the server as described in the Installation and Setup section.
 
-2.Open the index.html file in your browser.
+ .Download VScode in your pc and instal it. 
+
+2.Open the VScode and create a file index.html and other files Style.css, index.js then start coading in it.
 
 3.Interact with the task list by adding, viewing editing, and deleting tasks.
