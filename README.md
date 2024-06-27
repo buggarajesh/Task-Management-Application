@@ -1,11 +1,13 @@
 # Task-Management-Application
 A simple task management application that allows users to add, view, edit, and delete tasks. This project demonstrates a full-stack implementation with a responsive front-end and a RESTful API back-end
 
-Table of Contents
+#Table of Contents
+
 1.Features
 2.Technologies Used
 3.Installation and Setup
 4.Front-end
+
  .HTML
  .CSS
  .JavaScript
@@ -13,7 +15,8 @@ Table of Contents
  .API Endpoints
 6. Usage
 
-Features
+#Features
+
  .Landing Page: Displays a list of tasks.
  .Add New Tasks: Users can add new tasks with a title, description, and due date.
  .View Task Details: View detailed information about each task.
